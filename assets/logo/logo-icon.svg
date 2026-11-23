@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="38 0 40 40" width="512" height="512">
+  <title>Ελαστικά Μακρυγιάννης</title>
+  <g transform="translate(0 0)">
+    <g transform="translate(6 0) skewX(-16)" fill="none">
+      <rect x="4" y="8" width="24" height="4" rx="1"/><rect x="11" y="18" width="17" height="4" rx="1"/><rect x="18" y="28" width="10" height="4" rx="1"/>
+    </g>
+    <circle cx="58" cy="20" r="19" fill="#111" stroke="#2e2e2e" stroke-width="1"/>
+    <path d="M68.96 9.04A15.5 15.5 0 0 1 68.96 30.96M47.04 30.96A15.5 15.5 0 0 1 47.04 9.04" fill="none" stroke="#ffd000" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="58" cy="20" r="10.5" fill="#3a3d42" stroke="#0b0b0b" stroke-width="1"/>
+    <g stroke="#16181a" stroke-width="1.6" stroke-linecap="round">
+      <line x1="58" y1="16.5" x2="58" y2="10.8"/><line x1="58" y1="23.5" x2="58" y2="29.2"/>
+      <line x1="55" y1="18.25" x2="50.05" y2="15.4"/><line x1="61" y1="21.75" x2="65.95" y2="24.6"/>
+      <line x1="55" y1="21.75" x2="50.05" y2="24.6"/><line x1="61" y1="18.25" x2="65.95" y2="15.4"/>
+    </g>
+    <circle cx="58" cy="20" r="3.6" fill="#ffd000" stroke="#0b0b0b" stroke-width=".8"/>
+  </g>
+</svg>

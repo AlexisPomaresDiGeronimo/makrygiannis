@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 670 104" width="670" height="104">
+  <title>Ελαστικά Μακρυγιάννης</title>
+  <g transform="translate(0 6) scale(2.2)">
+    <g transform="translate(6 0) skewX(-16)" fill="#ffffff">
+      <rect x="4" y="8" width="24" height="4" rx="1"/><rect x="11" y="18" width="17" height="4" rx="1"/><rect x="18" y="28" width="10" height="4" rx="1"/>
+    </g>
+    <circle cx="58" cy="20" r="19" fill="#111" stroke="#2e2e2e" stroke-width="1"/>
+    <path d="M68.96 9.04A15.5 15.5 0 0 1 68.96 30.96M47.04 30.96A15.5 15.5 0 0 1 47.04 9.04" fill="none" stroke="#ffd000" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="58" cy="20" r="10.5" fill="#3a3d42" stroke="#0b0b0b" stroke-width="1"/>
+    <g stroke="#16181a" stroke-width="1.6" stroke-linecap="round">
+      <line x1="58" y1="16.5" x2="58" y2="10.8"/><line x1="58" y1="23.5" x2="58" y2="29.2"/>
+      <line x1="55" y1="18.25" x2="50.05" y2="15.4"/><line x1="61" y1="21.75" x2="65.95" y2="24.6"/>
+      <line x1="55" y1="21.75" x2="50.05" y2="24.6"/><line x1="61" y1="18.25" x2="65.95" y2="15.4"/>
+    </g>
+    <circle cx="58" cy="20" r="3.6" fill="#ffd000" stroke="#0b0b0b" stroke-width=".8"/>
+  </g>
+  <g>
+    <path d="M662 0H475L476 252Q476 392 480 527L428 71H242L187 527Q194 369 194 252V0H10L49 696H289L338 241L380 696H623Z" transform="matrix(0.07184 0 0.01527 -0.07184 196.00 58.00)" fill="#ffffff"/>
+    <path d="M338 0 318 138H197L177 0H-20L142 696H376L537 0ZM217 276H298L257 557Z" transform="matrix(0.07184 0 0.01527 -0.07184 246.43 58.00)" fill="#ffffff"/>
+    <path d="M226 696V0H28V696ZM573 696 425 386 588 0H375L231 371L382 696Z" transform="matrix(0.07184 0 0.01527 -0.07184 285.73 58.00)" fill="#ffffff"/>
+    <path d="M509 463Q509 344 443.0 282.0Q377 220 257 220H226V0H28V696H232Q367 696 438.0 636.5Q509 577 509 463ZM308 463Q308 513 293.5 536.0Q279 559 239 559H226V359H236Q277 359 292.5 383.0Q308 407 308 463Z" transform="matrix(0.07184 0 0.01527 -0.07184 328.69 58.00)" fill="#ffffff"/>
+    <path d="M544 696 362 258V0H164V257L-18 696H188L265 407L344 696Z" transform="matrix(0.07184 0 0.01527 -0.07184 367.77 58.00)" fill="#ffffff"/>
+    <path d="M435 696 417 544H226V0H28V696Z" transform="matrix(0.07184 0 0.01527 -0.07184 407.71 58.00)" fill="#ffffff"/>
+    <path d="M226 696V0H28V696Z" transform="matrix(0.07184 0 0.01527 -0.07184 440.54 58.00)" fill="#ffffff"/>
+    <path d="M338 0 318 138H197L177 0H-20L142 696H376L537 0ZM217 276H298L257 557Z" transform="matrix(0.07184 0 0.01527 -0.07184 460.94 58.00)" fill="#ffffff"/>
+    <path d="M513 0H274L169 525L172 501Q182 427 188.0 363.5Q194 300 194 224V0H28V696H266L372 170Q359 258 352.5 318.5Q346 379 346 461V696H513Z" transform="matrix(0.07184 0 0.01527 -0.07184 500.24 58.00)" fill="#ffffff"/>
+    <path d="M513 0H274L169 525L172 501Q182 427 188.0 363.5Q194 300 194 224V0H28V696H266L372 170Q359 258 352.5 318.5Q346 379 346 461V696H513Z" transform="matrix(0.07184 0 0.01527 -0.07184 541.26 58.00)" fill="#ffffff"/>
+    <path d="M322 0V284H226V0H28V696H226V436H322V696H520V0Z" transform="matrix(0.07184 0 0.01527 -0.07184 582.28 58.00)" fill="#ffffff"/>
+    <path d="M412 696V557H195L324 376V308L189 143H412V0H0V139L155 340L0 557V696Z" transform="matrix(0.07184 0 0.01527 -0.07184 623.80 58.00)" fill="#ffffff"/>
+  </g>
+  <polygon points="193.85,69.00 477.44,69.00 476.59,73.00 193.00,73.00" fill="#ffd000"/>
+  <polygon points="495.73,69.00 568.92,69.00 568.07,73.00 494.88,73.00" fill="#ffffff"/>
+  <polygon points="587.21,69.00 657.25,69.00 656.40,73.00 586.36,73.00" fill="#ffffff"/>
+  <g>
+    <path d="M419 695 400 570H214V414H378V291H214V126H413V0H37V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 190.00 98.00)" fill="#ffd000"/>
+    <path d="M361 695 526 0H343L254 568L166 0H-15L151 695Z" transform="matrix(0.02158 0 0.00459 -0.02158 204.05 98.00)" fill="#ffd000"/>
+    <path d="M347 0 323 145H185L162 0H-15L151 695H361L526 0ZM206 271H303L254 568Z" transform="matrix(0.02158 0 0.00459 -0.02158 219.83 98.00)" fill="#ffd000"/>
+    <path d="M407 695V568H182L317 375V309L177 130H407V0H6V126L166 340L6 568V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 235.60 98.00)" fill="#ffd000"/>
+    <path d="M461 695 443 562H316V0H139V562H3V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 249.24 98.00)" fill="#ffd000"/>
+    <path d="M214 695V0H37V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 263.83 98.00)" fill="#ffd000"/>
+    <path d="M214 695V0H37V695ZM555 695 394 384 570 0H378L219 370L382 695Z" transform="matrix(0.02158 0 0.00459 -0.02158 274.02 98.00)" fill="#ffd000"/>
+    <path d="M347 0 323 145H185L162 0H-15L151 695H361L526 0ZM206 271H303L254 568Z" transform="matrix(0.02158 0 0.00459 -0.02158 290.71 98.00)" fill="#ffd000"/>
+    <path d="M203 306Q203 267 177.5 240.0Q152 213 111 213Q71 213 45.5 240.0Q20 267 20 306Q20 344 45.5 372.0Q71 400 111 400Q152 400 177.5 372.0Q203 344 203 306Z" transform="matrix(0.02158 0 0.00459 -0.02158 315.05 98.00)" fill="#ffd000"/>
+    <path d="M442 695V562L201 140H449L432 0H7V131L247 559H29V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 333.18 98.00)" fill="#ffd000"/>
+    <path d="M347 0 323 145H185L162 0H-15L151 695H361L526 0ZM206 271H303L254 568Z" transform="matrix(0.02158 0 0.00459 -0.02158 347.79 98.00)" fill="#ffd000"/>
+    <path d="M507 0H291L165 537L168 513Q177 444 182.5 381.5Q188 319 188 244V0H37V695H252L379 156Q368 228 362.0 290.5Q356 353 356 431V695H507Z" transform="matrix(0.02158 0 0.00459 -0.02158 363.57 98.00)" fill="#ffd000"/>
+    <path d="M461 695 443 562H316V0H139V562H3V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 380.06 98.00)" fill="#ffd000"/>
+    <path d="M419 695 400 570H214V414H378V291H214V126H413V0H37V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 394.65 98.00)" fill="#ffd000"/>
+    <path d="M407 695V568H182L317 375V309L177 130H407V0H6V126L166 340L6 568V695Z" transform="matrix(0.02158 0 0.00459 -0.02158 408.70 98.00)" fill="#ffd000"/>
+  </g>
+</svg>
